@@ -2,4 +2,4 @@
 BMI Calculation Software with JavaScript
 
 
-  <img src="https://user-images.githubusercontent.com/101990417/200968027-730daf66-7030-4a1f-a9e0-1d5567727d0d.png" width="400px" />
+  <img src="https://user-images.githubusercontent.com/101990417/200968161-284b78e4-5bea-44cd-82a2-65ec5bc7350a.png" width="400px" />
